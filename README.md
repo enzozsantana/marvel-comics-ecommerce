@@ -28,6 +28,9 @@ OBS: Quadrinhos raros são indicados através do símbolo ⭐, ao lado do preço
 - Next.js
 - Styled Components
 
+## Prev repo
+https://github.com/enzozsantana/marvel-ecommerce
+
 ## Getting Started
 
 First, run the development server:
