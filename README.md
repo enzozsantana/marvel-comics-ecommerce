@@ -10,6 +10,25 @@ No carrinho, é possível fazer o uso do cupom: 10%OFF, que reduzirá 10% do val
 
 OBS: Quadrinhos raros são indicados através do símbolo ⭐, ao lado do preço do respectivo quadrinho.
 
+![marvel-comics-ecommerce](https://user-images.githubusercontent.com/89364741/195931553-103dc380-24dc-4b9e-a52f-477a225ff131.png)
+
+![marvel-comics-ecommerce2](https://user-images.githubusercontent.com/89364741/195933762-87e4f965-baae-4700-8e00-5b8f98129748.png)
+
+![marvel-comics-ecommerce3](https://user-images.githubusercontent.com/89364741/195933781-1990164f-4e4d-48d3-a349-2e9262222dde.png)
+
+![marvel-comics-ecommerce4](https://user-images.githubusercontent.com/89364741/195934398-9e5e591c-79d2-419b-b893-5ae09f93fd23.png)
+
+![marvel-comics-ecommerce5](https://user-images.githubusercontent.com/89364741/195934583-da222916-fa4f-421a-a8e2-0e4d952d7df0.png)
+
+![marvel-comics-ecommerce6](https://user-images.githubusercontent.com/89364741/195934764-4e945ed5-f4d7-4746-bcf5-d8766a1bd377.png)
+
+
+## 🖥 Tecnologias utilizadas
+
+- React
+- Next.js
+- Styled Components
+
 ## Getting Started
 
 First, run the development server:
