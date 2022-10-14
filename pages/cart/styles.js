@@ -316,3 +316,5 @@ export const ShopNowButton = styled.button`
   }
 
 `
+
+export default BuyButton, Cart, CartBanner, CartItem, CartItems, CartWrapper, CouponAddButton, CouponDiscountValue, CouponInput, CouponRow, CouponTitle, CoupounsAndTotalWrapper, DeleteIcon, EmptyCartImage, HorizontalRow, Icon, ProductAmount, ProductAmountWrapper, ProductImage, ProductInfos, ProductInfosWrapper, ProductPrice, ProductRow, ProductTitle, ShopNowButton, Title, Totals, TotalsInfos
