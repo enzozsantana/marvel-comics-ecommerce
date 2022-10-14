@@ -157,7 +157,7 @@ export const DeleteIcon = styled.button`
 
   @media only screen and (min-width: 1200px) {
     top: -.5rem;
-    left: 4.2rem;
+    left: 6.9 rem;
   }
 `;
 
