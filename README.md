@@ -18,10 +18,9 @@ OBS: Quadrinhos raros são indicados através do símbolo ⭐, ao lado do preço
 
 ![marvel-comics-ecommerce4](https://user-images.githubusercontent.com/89364741/195934398-9e5e591c-79d2-419b-b893-5ae09f93fd23.png)
 
-![marvel-comics-ecommerce5](https://user-images.githubusercontent.com/89364741/195934583-da222916-fa4f-421a-a8e2-0e4d952d7df0.png)
+![marvel-comics-ecommerce5](https://user-images.githubusercontent.com/89364741/195936336-5e7afb4c-3c44-48c0-b4a1-52f08f689212.png)
 
-![marvel-comics-ecommerce6](https://user-images.githubusercontent.com/89364741/195934764-4e945ed5-f4d7-4746-bcf5-d8766a1bd377.png)
-
+![marvel-comics-ecommerce6](https://user-images.githubusercontent.com/89364741/195937525-d501952c-0094-4a19-a9c3-62298c6ee208.png)
 
 ## 🖥 Tecnologias utilizadas
 
