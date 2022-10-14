@@ -28,7 +28,7 @@ export const ComicDetailed = styled.div`
   }
 
   @media only screen and (min-width: 1200px) {
-    justify-content: space-around;
+    justify-content: center;
     height: 82vh;
   }
 `;
@@ -56,7 +56,7 @@ export const ComicContent = styled.div`
   @media only screen and (min-width: 1200px) {
     display: flex;
     justify-content: center;
-    align-item: center;
+    align-item: flex-start;
     gap: 15rem;
     width: 90vw;
   }
@@ -103,6 +103,7 @@ export const ComicName = styled.h1`
 
   @media only screen and (min-width: 1200px) {
     font-size: 2.6rem;
+    margin: 0 1rem 1.5rem 1rem;
   }
 `;
 
