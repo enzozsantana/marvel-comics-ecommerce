@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Marvel Comics Ecommerce 📚💰
+Loja virtual criada a partir do consumo da API da Marvel.
+
+## Descrição
+Na página inicial o usuário visualiza 20 quadrinhos por vez (há paginação disponível), com seus respectivos preços, títulos, imagens e raridade (criada por mim, independe de informação da API).
+
+Ao clicar no card de um quadrinho o usuário redirecionado para a página que detalha o respectivo quadrinho. Lá será possível visualizar mais informações, como descrição (se houver disponível na API), números de páginas, data de publicação e a série a qual o mesmo pertence.
+
+No carrinho, é possível fazer o uso do cupom: 10%OFF, que reduzirá 10% do valor final da compra.
+
+OBS: Quadrinhos raros são indicados através do símbolo ⭐, ao lado do preço do respectivo quadrinho.
 
 ## Getting Started
 
