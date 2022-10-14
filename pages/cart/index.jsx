@@ -81,7 +81,7 @@ function CartPage() {
                       <ProductInfos>
                         {item.title.length >= 30 ? (
                           <ProductTitle>
-                            {item.title.substr(0, 30)}...
+                            {item.title.substr(0, 20)}...
                           </ProductTitle>
                         ) : (
                           <ProductTitle>{item.title}</ProductTitle>

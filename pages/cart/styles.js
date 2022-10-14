@@ -149,7 +149,7 @@ export const DeleteIcon = styled.button`
   font-size: 2rem;
   cursor: pointer;
   position: relative;
-  top: -.7rem;
+  top: -.6rem;
 
   &hover {
     color: #f02d34;
@@ -157,7 +157,7 @@ export const DeleteIcon = styled.button`
 
   @media only screen and (min-width: 1200px) {
     top: -.5rem;
-    left: 5rem;
+    left: 7rem;
   }
 `;
 
