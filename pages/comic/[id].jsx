@@ -105,7 +105,7 @@ export default function ComicDetailsPage() {
                       <span>
                         <FaCartPlus />
                       </span>{" "}
-                      {`${comicDetails.prices[0].price.toFixed(2)}`}
+                      ${`${comicDetails.prices[0].price.toFixed(2)}`}
                     </ProductAdd>
                   ) : (
                     ""
