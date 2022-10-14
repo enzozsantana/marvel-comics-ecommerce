@@ -29,6 +29,7 @@ export const ComicDetailed = styled.div`
 
   @media only screen and (min-width: 1200px) {
     justify-content: space-around;
+    height: 82vh;
   }
 `;
 
