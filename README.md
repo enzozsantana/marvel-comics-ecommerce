@@ -1,5 +1,5 @@
 ## Marvel Comics Ecommerce 📚💰
-Loja virtual criada a partir do consumo da API da Marvel.
+Simulação de uma loja virtual criada a partir do consumo da API da Marvel.
 
 ## Descrição
 Na página inicial o usuário visualiza 20 quadrinhos por vez (há paginação disponível), com seus respectivos preços, títulos, imagens e raridade (criada por mim, independe de informação da API).
